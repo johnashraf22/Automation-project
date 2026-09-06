@@ -1,0 +1,19 @@
+{
+  "validUser": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "invalidUser": {
+    "username": "invalid_user",
+    "password": "invalid_pass"
+  },
+  "userWithoutPassword": {
+    "username": "standard_user",
+    "password": ""
+  },
+  "cartProducts": [
+    "Sauce Labs Backpack",
+    "Sauce Labs Bolt T-Shirt",
+    "Sauce Labs Onesie"
+  ]
+}
